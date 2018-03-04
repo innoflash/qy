@@ -1,0 +1,48 @@
+@font-face {
+    font-family: qwikyum;
+    src: url('fonts/braxton.otf');
+}
+.home-buttons {
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.home-buttons h4{
+    width: 100%;
+    text-align: center;
+    color: #ff2244;
+}
+.home-buttons a > img{
+    width: 100%
+}
+.order-button{
+    display: block;
+    position: relative;
+    background: #ffffff;
+    border-bottom: 1px solid #7d7d7d;
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 0 5px;
+    margin-bottom: 7px;
+}
+
+.order-button .fa{
+    color: #ff2244;
+    font-size: 175%;
+}
+.order-button b{
+    font-family: qwikyum, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+    color: #666666;
+    font-size: 1.5em;
+}
+
+.card-header-pic .card-header {
+    min-height: 40vw;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+.card-header-pic .card-content-padding .date{
+    color: #8e8e93;
+}
+
